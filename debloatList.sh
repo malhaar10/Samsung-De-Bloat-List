@@ -37,3 +37,5 @@ pm uninstall --user 0 com.samsung.SMT.lang_es_us_f00
 pm uninstall --user 0 com.samsung.SMT.lang_vi_vn_f00
 pm uninstall --user 0 com.google.android.tts
 pm uninstall --user 0 com.google.android.gms.supervision
+pm uninstall --user 0 com.opera.max.oem
+pm uninstall --user 0 com.samsung.ecomm.global.in
