@@ -40,3 +40,4 @@ pm uninstall --user 0 com.google.android.gms.supervision
 pm uninstall --user 0 com.opera.max.oem
 pm uninstall --user 0 com.samsung.ecomm.global.in
 pm uninstall --user 0 com.samsung.android.mfi
+pm uninstall --user 0 com.facebook.katana
