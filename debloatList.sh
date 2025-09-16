@@ -1,6 +1,6 @@
 pm uninstall --user 0 com.google.android.adservices.api
 pm uninstall --user 0 com.samsung.android.mapsagent
-pm uninstall -- user 0 com.samsung.android.app.camera.sticker.facearavatar.preload
+pm uninstall --user 0 com.samsung.android.app.camera.sticker.facearavatar.preload
 pm uninstall --user 0 com.google.android.gms.location.history
 pm uninstall --user 0 com.android.hotwordenrollment.xgoogle
 pm uninstall --user 0 com.android.hotwordenrollment.okgoogle
@@ -18,6 +18,8 @@ pm uninstall --user 0 com.facebook.system
 pm uninstall --user 0 com.facebook.services
 pm uninstall --user 0 com.mygalaxy
 pm uninstall --user 0 com.mygalaxy.service
+pm uninstall --user 0 com.samsung.android.aremojieditor
+pm uninstall --user 0 com.sec.android.mimage.avatarstickers
 pm uninstall --user 0 com.samsung.android.app.omcagent
 pm uninstall --user 0 com.samsung.android.kidsinstaller
 pm uninstall --user 0 com.samsung.android.ipsgeofence
@@ -31,13 +33,20 @@ pm uninstall --user 0 com.samsung.SMT.lang_es_mx_f00
 pm uninstall --user 0 com.samsung.SMT.lang_ar_ae_m00
 pm uninstall --user 0 com.samsung.SMT.lang_pl_pl_f00
 pm uninstall --user 0 com.samsung.SMT.lang_ru_ru_f00
+pm uninstall --user 0 com.samsung.SMT.lang_ru_ru_m00
+pm uninstall --user 0 com.samsung.SMT.lang_ja_jp_m00
 pm uninstall --user 0 com.samsung.SMT.lang_es_es_f00
+pm uninstall --user 0 com.samsung.SMT.lang_ja_jp_f00
 pm uninstall --user 0 com.samsung.SMT.lang_th_th_f00
 pm uninstall --user 0 com.samsung.SMT.lang_es_us_f00
 pm uninstall --user 0 com.samsung.SMT.lang_vi_vn_f00
+pm uninstall --user 0 com.samsung.SMT.lang_tr_tr_f00
 pm uninstall --user 0 com.google.android.tts
 pm uninstall --user 0 com.google.android.gms.supervision
 pm uninstall --user 0 com.opera.max.oem
 pm uninstall --user 0 com.samsung.ecomm.global.in
 pm uninstall --user 0 com.samsung.android.mfi
 pm uninstall --user 0 com.facebook.katana
+pm uninstall --user 0 com.sallysoft.srpol.edge.calendar
+pm uninstall --user 0 com.samsung.android.aremoji
+pm uninstall --user 0 com.google.android.healthconnect.controller
