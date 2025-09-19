@@ -33,8 +33,8 @@ Apps that will be removed
 | com.swiftkey.swiftkeyconfigurator                           | SwiftKey Configurator                     | Yes                                       |
 | com.touchtype.swiftkey                                      | SwiftKey Keyboard                         | Yes                                       |
 | com.microsoft.skydrive                                      | Microsoft OneDrive                        | Yes                                       |
-| com.samsung.android.mdx                                     | Samsung Flow / Multi-Device Experience    | Yes                                       |
-| com.microsoft.appmanager                                    | Microsoft Apps Manager                    | Yes                                       |
+| com.samsung.android.mdx                                     | Samung MAX                                | Yes                                       |
+| com.microsoft.appmanager                                    | Microsoft Phone Link                      | Yes                                       |
 | com.google.android.feedback                                 | Google Feedback                           | Yes                                       |
 | com.google.android.googlequicksearchbox                     | Google App (Search + Discover)            | Risky (affects search & assistant)        |
 | com.google.android.apps.messaging                           | Google Messages (SMS/RCS)                 | Risky (affects SMS)                       |
